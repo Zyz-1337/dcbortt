@@ -1,0 +1,34 @@
+{
+    "giveaway1": {
+        "emded": {
+            "title": "Giveaway",
+            "description": "React with 🎉 to enter!",
+            "color": "BLUE",
+            "footer": "Ends at <R:12415123123:t>"
+        },
+        "prize": "Nitro",
+        "requirements_user": {
+            "role": "Nitro Booster"
+        },
+        "requirements_start": {
+            "guild_boosts": 14,
+            "guild_members": 100,
+            "guild_role": {
+                "role":"Nitro Booster",
+                "amount_users": 2
+            }
+        },
+        "end": 12415123123,
+        "winners": 1,
+        "channel": "9018129387129031",
+        "host": "9018129387129031",
+        "message": "9018129387129031",
+        "entrys": [],
+        "winner": ["9018129387129031"],
+        "reroll": null,
+        "blocked": {
+            "users": [],
+            "roles": []
+        }
+    }
+}
